@@ -1,0 +1,12 @@
+https://github.com/apache/ant.git
+https://github.com/antlr/antlr4.git
+https://github.com/Dustinmj/Froyo_Email.git
+https://github.com/brandt/GridSphere.git
+https://github.com/itext/itext7.git
+https://github.com/eclipse/jgit.git
+https://github.com/apache/log4j.git
+https://github.com/apache/lucene-solr.git
+https://github.com/apache/maven.git
+https://github.com/spring-projects/spring-framework.git
+https://github.com/apache/xalan-j.git
+https://github.com/apache/xerces2-j.git
